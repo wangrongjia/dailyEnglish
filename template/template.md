@@ -6,9 +6,7 @@ let daysInMonth = moment({ year: year, month: month }).daysInMonth(); // 当月�
 let monthName = moment({ year: year, month: month }).format("MMMM"); // 月份名称
 -%>
 
-我只有cet4的水准 帮我总结这里的生词，然后把生词的释义给我 只需要给我返回一个markdown的表格，其中有单词列，词性，释义，音标，例句
-
-给出这个视频的英语文本内容  ，然后我只有cet4的水准 帮我总结这里的生词，然后把生词的释义给我 并我返回一个markdown的表格，其中有单词列，词性，释义，音标，例句
+以上标粗体的部分是我不认识的单词，请帮我给出每个单词的释义，包括词性，释义，发音，并给我一个区别于上文的例句，例句尽可能剪短一些
 # English Learning - {{monthName}} {{year}}
 
 ## Instructions

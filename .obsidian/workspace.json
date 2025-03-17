@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/0316.md",
+                "file": "2025/03/0317.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0316"
+              "title": "0317"
             }
           }
         ]
@@ -172,17 +172,19 @@
   },
   "active": "cf6fc2c3dfec86f6",
   "lastOpenFiles": [
-    "2025/0314.md",
-    "2025/0316.md",
+    "2025/03/0316.md",
     "template/daily.md",
     "template/template.md",
-    "2025/assets/openai_1741910693411.mp3",
+    "2025/03/0317.md",
+    "2025/03/assets/openai_1742169894895.mp3",
+    "2025/03",
+    "2025/03/0314.md",
+    "2025/03/assets/openai_1741910693411.mp3",
     "2025/03.md",
-    "2025/assets",
+    "2025/03/assets",
     "openai_1741910693411 1.mp3",
     "openai_1741910693411.mp3",
     "template",
-    "2025/Untitled",
     "2025"
   ]
 }
