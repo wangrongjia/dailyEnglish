@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/03/0317.md",
+                "file": "2025/03/0320.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0317"
+              "title": "0320"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Embracing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,19 +172,24 @@
   },
   "active": "cf6fc2c3dfec86f6",
   "lastOpenFiles": [
-    "2025/03/0316.md",
-    "template/daily.md",
+    "2025/03/0319.md",
+    "2025/03/0320.md",
     "template/template.md",
+    "2025/03/0318.md",
+    "assets/openai_1742429093913.mp3",
+    "assets",
+    "2025/03/assets/openai_1742342693749.mp3",
     "2025/03/0317.md",
+    "2025/03/0316.md",
+    "2025/03/0314.md",
+    "2025/03/assets/openai_1742256294433.mp3",
+    "template/daily.md",
     "2025/03/assets/openai_1742169894895.mp3",
     "2025/03",
-    "2025/03/0314.md",
     "2025/03/assets/openai_1741910693411.mp3",
     "2025/03.md",
     "2025/03/assets",
     "openai_1741910693411 1.mp3",
-    "openai_1741910693411.mp3",
-    "template",
-    "2025"
+    "openai_1741910693411.mp3"
   ]
 }
